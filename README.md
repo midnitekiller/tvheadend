@@ -10,3 +10,8 @@ AUTOBUILD_CONFIGURE_EXTRA=" --enable-hdhomerun_client --enable-avahi --enable-hd
 dpkg -i tvheadend_4.0.7-11~g398e4fe~precise_amd64.deb
 
 service tvheadend start
+
+
+OR
+
+https://magazine.odroid.com/article/tvheadend/
